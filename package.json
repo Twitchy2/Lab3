@@ -1,0 +1,23 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Package for lab3",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Twitchy2/Lab3.git"
+  },
+  "author": "Logan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Twitchy2/Lab3/issues"
+  },
+  "homepage": "https://github.com/Twitchy2/Lab3#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
